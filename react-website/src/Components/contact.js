@@ -1,11 +1,11 @@
 import React from 'react'
 
-function Home() {
+function Contact() {
   return (
     <div className='text'>
-       Hello! I am Home page
+      Hello! I am Contact page.
     </div>
   )
 }
 
-export default Home
+export default Contact

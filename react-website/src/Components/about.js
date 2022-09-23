@@ -1,11 +1,11 @@
 import React from 'react'
 
-function Service() {
+function About() {
   return (
     <div className='text'>
-       Hello! I am Service page
+      Hello! I am About page.
     </div>
   )
 }
 
-export default Service
+export default About

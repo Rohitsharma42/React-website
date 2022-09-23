@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Rohitsharma42/React-website/static/css/main.ca03d859.css",
+    "main.js": "/Rohitsharma42/React-website/static/js/main.ebe483a6.js",
+    "static/js/787.e403dcb9.chunk.js": "/Rohitsharma42/React-website/static/js/787.e403dcb9.chunk.js",
+    "index.html": "/Rohitsharma42/React-website/index.html",
+    "main.ca03d859.css.map": "/Rohitsharma42/React-website/static/css/main.ca03d859.css.map",
+    "main.ebe483a6.js.map": "/Rohitsharma42/React-website/static/js/main.ebe483a6.js.map",
+    "787.e403dcb9.chunk.js.map": "/Rohitsharma42/React-website/static/js/787.e403dcb9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca03d859.css",
+    "static/js/main.ebe483a6.js"
+  ]
+}
